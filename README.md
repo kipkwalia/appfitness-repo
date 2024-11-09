@@ -1,5 +1,5 @@
 # FITNESS RECOMMENDATION APP
-Outdoor and Indoor app that helps users decide activity based on weather conditions and calculated metrics
+ App that suggests Outdoor and Indoor activities that helps users decide activity based on weather conditions and calculated metrics
 ## Features 
 1.Records Weather conditions and Suggests activity to be undertaken
 2.Records the Heat Index calculations
